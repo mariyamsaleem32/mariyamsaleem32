@@ -1,6 +1,7 @@
+I'm a front end web developer .
 - 👋 Asslam o alikum, I’m mariyam saleem
-- 👀 I’m interested in creating web pages and portfolio websites
-- 🌱 I’m currently learning html5,CSS and javascript
+- 👀 I’m interested in creating websites 
+- 🌱 I’m currently learning html5,CSS3 and javascript,react,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
