@@ -4,23 +4,17 @@
  🙋 About Me
 - 🌱 I’m currently learning MERN stack development to enhance my JavaScript expertise.
 - 💞 Looking to collaborate on exciting web projects and open-source initiatives.
-- 📫 How to reach me: [mariyamsaleem87@gmail.com](mailto:mariyamsaleem87@gmail.com).
+- 📫 How to reach me mariyamsaleem87@gmail.com.
 - ⚡ Fun fact: I love coding and problem solving.
 
  🚀 Technologies I know
-- Proficient in HTML5, CSS3, JavaScript, EmaScript, TypeScript and Bootstrap.
-- Styling: Bootstrap
-- Project Management: Git, GitHub
-- Design: Figma, Canva
+- HTML, CSS, Javascript, EcmaScript
+- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
+- Styling (Tailwindcss, Bootstrap)
+- Databases (Firebase Firestore, MongoDB)
+- Project Management (git, Github)
+- Design (Figma, Canva)
+- Deployment (Firebase, surge, Netlify,github)
 
-## Connect with me
-[LinkedIn](https://www.linkedin.com/in/mariyam-saleem-a227052b7/)
-
-## Tools
-- Bootstrap
-- CSS3
-- Git
-- HTML5
-- JavaScript
-- TypeScript
-- Firebase
+## my linkedin profile
+(https://www.linkedin.com/in/mariyam-saleem-a227052b7/)
